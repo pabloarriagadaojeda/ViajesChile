@@ -1,3 +1,4 @@
+/* Texto y fuentes */
 .montserrat-thin {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -23,20 +24,24 @@
     text-align: justify;
 }
 
+/* Estilos generales */
 body {
     background-color: #000000 !important;
     color: #ffffff !important;
     font-family: "Montserrat", sans-serif;
 }
 
+/* Regula el tamaño de los íconos en #presentación */
 #presentacion i {
     font-size: 40px;
 }
 
+/* Hace que no se vea el texto de presentación al cargar la página */
 .texto-presentacion {
     display: none;
 }
 
+/* Estandariza altura de imágenes */
 #destacados img{
     height: 150px;
 }
