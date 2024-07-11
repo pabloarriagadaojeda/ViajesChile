@@ -33,6 +33,10 @@ body {
     font-size: 40px;
 }
 
+.texto-presentacion {
+    display: none;
+}
+
 #destacados img{
     height: 150px;
 }
