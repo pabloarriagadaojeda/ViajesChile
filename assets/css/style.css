@@ -31,11 +31,6 @@ body {
     font-family: "Montserrat", sans-serif;
 }
 
-/* Regula el tamaño de las imagenes del carrusel */
-.carousel-item img{
-    height: 920px;
-}
-
 /* Regula el tamaño de los íconos en #presentación */
 #presentacion i {
     font-size: 40px;
